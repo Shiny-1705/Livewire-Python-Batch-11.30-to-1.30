@@ -1,0 +1,141 @@
+🟢 Task 1 – Class & Object
+
+Create a class Mobile with:
+
+Attributes: brand, model, price
+
+Method: display()
+
+👉 Create 3 objects and display their details.
+
+🟢 Task 2 – Constructor (__init__)
+
+Create a class Employee:
+
+Attributes: emp_id, name, salary
+
+Initialize using constructor
+
+Method: show_details()
+
+👉 Create 2 employees and print details.
+
+🟢 Task 3 – Methods in Class
+
+Create a class Rectangle:
+
+Attributes: length, breadth
+
+Methods:
+
+area()
+
+perimeter()
+
+👉 Take input from user and calculate results.
+
+🟡 Task 4 – Inheritance
+
+Create:
+
+Base class Person → name, age
+
+Child class Teacher → subject, salary
+
+👉 Display teacher details using inheritance.
+
+🟡 Task 5 – Method Overriding
+
+Create:
+
+Class Vehicle with method speed()
+
+Class Bike overriding speed()
+
+👉 Show how overriding works.
+
+🟡 Task 6 – Encapsulation
+
+Create class Account:
+
+Private variable __balance
+
+Methods:
+
+deposit()
+
+withdraw()
+
+show_balance()
+
+👉 Prevent direct access to balance.
+
+🟡 Task 7 – Polymorphism
+
+Create classes:
+
+Dog
+
+Cat
+
+Cow
+
+Each has method sound().
+
+👉 Use loop to call same method for all objects.
+
+🔵 Task 8 – Abstraction
+
+Use abc module.
+
+Create abstract class Shape:
+
+Abstract method area()
+
+Create classes:
+
+Circle
+
+Rectangle
+
+👉 Implement area calculation.
+
+🔵 Task 9 – Mini Project (OOPS Based)
+🏦 Bank Management System
+
+Create classes:
+
+Customer
+
+Bank
+
+Features:
+
+Create account
+
+Deposit
+
+Withdraw
+
+Check balance
+
+👉 Menu-driven program using OOPS.
+
+🔵 Task 10 – Real Time Task
+🛒 Shopping Cart System
+
+Create classes:
+
+Product
+
+Cart
+
+Cart should:
+
+Add product
+
+Remove product
+
+Display bill
+
+👉 Apply all OOPS concepts.
